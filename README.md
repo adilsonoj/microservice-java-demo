@@ -1,10 +1,11 @@
-# Estudos sobre microserviços
+# Estudos sobre microserviços e implementação com SpringBoot
 
 ## Recursos
 
-- Gateway
-- Product-ms
+- Gateway (Spring-Cloud-Gateway)
+- Service-Discovery (Eureka)
 - OAuth2 (Keycloak)
+- Product-ms
 
 ### Rodar Keycloak
 
